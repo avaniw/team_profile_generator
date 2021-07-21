@@ -1,0 +1,28 @@
+{
+  "name": "team_profile_generator",
+  "version": "1.0.0",
+  "description": "a node.js command line app that takes information in about employees and builds an engineering team",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avaniw/team_profile_generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avaniw/team_profile_generator/issues"
+  },
+  "homepage": "https://github.com/avaniw/team_profile_generator#readme",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  },
+  "dependencies": {
+    "inquirer": "^8.1.2"
+  }
+}
